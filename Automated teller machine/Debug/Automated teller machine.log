@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Naruto\source\repos\Automated teller machine\Automated teller machine\Source.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Naruto\source\repos\Automated teller machine\Automated teller machine\Source.cpp(150,9): warning C4244: 'argument': conversion from 'long' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Naruto\source\repos\Automated teller machine\Automated teller machine\Source.cpp(1114,9): warning C4244: 'argument': conversion from 'long' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Naruto\source\repos\Automated teller machine\Automated teller machine\Source.cpp(2000,20): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Naruto\source\repos\Automated teller machine\Automated teller machine\Source.cpp(35): warning C4715: 'GetPassword': not all control paths return a value
+  Automated teller machine.vcxproj -> C:\Users\Naruto\source\repos\Automated teller machine\Debug\Automated teller machine.exe
